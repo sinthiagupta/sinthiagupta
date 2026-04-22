@@ -129,7 +129,7 @@ class SinthiaGupta:
 
 | 📧 Personal Email | 🏫 University Email | 📱 WhatsApp |
 |:---:|:---:|:---:|
-| [sinthiagupta@gmail.com](mailto:sinthiagupta@gmail.com) | [e23cseu0597@bennett.edu.in](mailto:e23cseu0597@bennett.edu.in) | [+91 6397802847](https://wa.me/916397802847) |
+| [sinthiagupta@gmail.com](mailto:sinthiagupta@gmail.com) | [e23cseu0597@bennett.edu.in](mailto:e23cseu0597@bennett.edu.in) |
 
 </div>
 
