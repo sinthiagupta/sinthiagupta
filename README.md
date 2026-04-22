@@ -113,11 +113,9 @@ class SinthiaGupta:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinthia-gupta-a3173527a)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sinthiagupta21)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinthiagupta)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinthiagupta@gmail.com)
 [![University Mail](https://img.shields.io/badge/University_Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:e23cseu0597@bennett.edu.in)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916397802847)
 
 </div>
 
@@ -127,8 +125,8 @@ class SinthiaGupta:
 
 <div align="center">
 
-| 📧 Personal Email | 🏫 University Email | 📱 WhatsApp |
-|:---:|:---:|:---:|
+| 📧 Personal Email | 🏫 University Email |
+|:---:|:---:|
 | [sinthiagupta@gmail.com](mailto:sinthiagupta@gmail.com) | [e23cseu0597@bennett.edu.in](mailto:e23cseu0597@bennett.edu.in) |
 
 </div>
